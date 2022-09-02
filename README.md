@@ -7,4 +7,4 @@
 <br><br>
 <span style = "color:red; font-weight:bold; font-size:larger;">This is the WAY!</span>
 <hr>
-Version: 0022–02-Sep-2022
+Version: 02-Sep-2022

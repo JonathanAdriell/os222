@@ -1,7 +1,7 @@
 # os222
 Operating Systems 2022-2
 
-[GitHub Pages](https://jonathanadriell.github.io/os222/) — 
+[GitHub Page](https://jonathanadriell.github.io/os222/) — 
 [TARBALL]() — 
 [myLOG](https://jonathanadriell.github.io/os222/TXT/mylog.txt) — 
 [GitHub](https://github.com/JonathanAdriell/os222/)

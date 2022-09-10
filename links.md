@@ -14,20 +14,18 @@ permalink: LINKS/
 
 # LINKS
 
-1. [One](https://en.wikipedia.org/wiki/1)<br>
-StarBucks ipsum dolor J.CO Do Not!
-McD ipsum dolor Wendy's Burger King.
-KFC urna libero, in purus hana masa, sore wa tempura hokben.
+1. [Basic Linux Commands](https://linuxopsys.com/topics/basic-linux-commands)<br>
+This website contains a lot of Linux's basic commands. Each command has its own explanation
+which is very useful to know and makes recalling easier.
 
-2. [Two](https://en.wikipedia.org/wiki/2)<br>
-Sweet roll lollipop tootsie roll cheesecake marshmallow macaroon chocolate bar biscuit candy.
-Donut chocolate cake sugar plum icing dragée pie.
-Chocolate marzipan jelly-o soufflé donut pudding apple pie jelly beans.
+2. [Vim Basics in 8 Minutes](https://www.youtube.com/watch?v=ggSyF1SVFr4)<br>
+This video explains about some basic shortcuts of Vim. It was brought in a straightforward way
+which makes this video very entertaining while still providing useful information.
 
-3. [Three](https://en.wikipedia.org/wiki/3)<br>
-Liquorice bonbon lemon drops marshmallow.
-Sweet roll gummies gummies jelly tiramisu chocolate fruitcake.
-Jelly chocolate jelly beans marzipan brownie bonbon muffin.
+3. [Linux Awk Command](https://www.youtube.com/watch?v=9YOZmI-zWok)<br>
+This video explains about some useful things that you can do with Awk. Awk is one of Linux's
+powerful command that you can use to process data. It was brought in a simple way and
+explained while doing it making viewer easy to understand.
 
 <br>
 <hr>

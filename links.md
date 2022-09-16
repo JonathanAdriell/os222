@@ -27,6 +27,12 @@ This video explains about some useful things that you can do with Awk. Awk is on
 powerful command that you can use to process data. It was brought in a simple way and
 explained while doing it making viewer easy to understand.
 
+4. [Introduction to Cyber Security](https://youtu.be/rcDO8km6R6c)<br>
+This video explains about cyber security, which is very important to know in keeping our data
+safe from theft and damage. It was very well-presented using slides and verbal explanations, along with
+hand gestures and others. The topic of each slide can be found in the video's description that
+has been sorted in a sequential order making recalling about a specific topic easier.
+
 <br>
 <hr>
 &copy; {{ site.copyright }} --- {{ site.author }} --- Version: {{ site.version }}.

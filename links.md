@@ -30,7 +30,7 @@ explained while doing it making viewer easy to understand.
 4. [Introduction to Cyber Security](https://youtu.be/rcDO8km6R6c)<br>
 This video explains about cyber security, which is very important to know in keeping our data
 safe from theft and damage. It was very well-presented using slides and verbal explanations, along with
-hand gestures and others. The topic of each slide can be found in the video's description that
+hand gestures and others. The topic of each slide can be found in the video's description as well that
 has been sorted in a sequential order making recalling about a specific topic easier.
 
 <br>

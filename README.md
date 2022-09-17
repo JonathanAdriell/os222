@@ -2,7 +2,7 @@
 Operating Systems 2022-2
 
 [GitHub Page](https://jonathanadriell.github.io/os222/) — 
-[TARBALL]() — 
+[TARBALL](https://os.vlsm.org/Log/JonathanAdriell.tar.bz2.txt) — 
 [myLOG](https://jonathanadriell.github.io/os222/TXT/mylog.txt) — 
 [GitHub](https://github.com/JonathanAdriell/os222/)
 <br><br>

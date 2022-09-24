@@ -27,3 +27,10 @@ ZCZC W02 30 L64 Helping a friend (OS related problem)
 ZCZC W02 70 L05 Quiz related including studying
 ZCZC W02 15 L41 Updating TXT/mylog.txt
 ZCZC W02 200 L02 OS Class
+ZCZC W03 15 L01 Checking SCELE
+ZCZC W03 120 L13 Assignment #03: Reading and Demos
+ZCZC W03 50 L13 Assignment #03: Add/Create an Extra Virtual Disk
+ZCZC W03 75 L13 Assignment #03: Finishing
+ZCZC W03 30 L64 Helping a friend (OS related problem)
+ZCZC W03 115 L05 Quiz related including studying
+ZCZC W03 200 L02 OS Class 

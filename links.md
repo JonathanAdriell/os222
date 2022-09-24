@@ -28,10 +28,14 @@ powerful command that you can use to process data. It was brought in a simple wa
 explained while doing it making viewer easy to understand.
 
 4. [Introduction to Cyber Security](https://youtu.be/rcDO8km6R6c)<br>
-This video explains about cyber security, which is very important to know in keeping our data
-safe from theft and damage. It was very well-presented using slides and verbal explanations, along with
-hand gestures and others. The topic of each slide can be found in the video's description as well that
-has been sorted in a sequential order making recalling about a specific topic easier.
+This video explains about cyber security, which is very essential for us to know in order to keep our data
+safe from theft and damage. It was presented very well using slides, hand gestures, and verbal explanations without
+using complicated words making viewer easy to understand.
+
+5. [Introduction to C Language](https://www.freecodecamp.org/news/the-c-beginners-handbook/#type-definitions)<br>
+This website provides a very understandable tutorial about C language for beginners. It also contains a Table of Contents
+which content can be clicked to be directed to that section of the web which contains the content we are finding for 
+making recalling easier and faster.
 
 <br>
 <hr>

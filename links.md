@@ -34,8 +34,8 @@ using complicated words making viewer easy to understand.
 
 5. [Introduction to C Language](https://www.freecodecamp.org/news/the-c-beginners-handbook/#type-definitions)<br>
 This website provides a very understandable tutorial about C language for beginners. It also contains a Table of Contents
-which content can be clicked to be directed to that section of the web which contains the content we are finding for 
-making recalling easier and faster.
+which content can be clicked to be directed to that section of the web containing that content making recalling 
+easier and faster.
 
 <br>
 <hr>

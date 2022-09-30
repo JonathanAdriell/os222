@@ -40,5 +40,5 @@ ZCZC W04 15 L14 Assignment #04: Compiling the Linux Programming Interface (TLPI)
 ZCZC W04 80 L14 Assignment #04: Finishing
 ZCZC W04 25 L64 Helping a friend (OS related problem)
 ZCZC W04 40 L21 Trying something
-ZCZC W04 135 Quiz related including studying
+ZCZC W04 135 L05 Quiz related including studying
 ZCZC W04 200 L02 OS Class

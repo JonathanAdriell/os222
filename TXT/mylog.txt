@@ -34,3 +34,9 @@ ZCZC W03 75 L13 Assignment #03: Finishing
 ZCZC W03 30 L64 Helping a friend (OS related problem)
 ZCZC W03 115 L05 Quiz related including studying
 ZCZC W03 200 L02 OS Class 
+ZCZC W04 15 L01 Checking SCELE
+ZCZC W04 150 L14 Assignment #04: Reading and Demos
+ZCZC W04 15 L14 Assignment #04: Compiling the Linux Programming Interface (TLPI)
+ZCZC W04 25 L64 Helping a friend (OS related problem)
+ZCZC W04 135 Quiz related including studying
+ZCZC W04 200 L02 OS Class

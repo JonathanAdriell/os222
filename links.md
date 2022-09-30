@@ -37,6 +37,10 @@ This website provides a very understandable tutorial about C language for beginn
 which content can be clicked to be directed to that section of the web containing that content making recalling 
 easier and faster.
 
+6. [Logical vs Physical Adress](https://techdifferences.com/difference-between-logical-and-physical-address.html)<br>
+This website explains about the difference between logical and physical address in operating system.
+It also provides a comparison chart and key difference which makes it easier for readers to understand.
+
 <br>
 <hr>
 &copy; {{ site.copyright }} --- {{ site.author }} --- Version: {{ site.version }}.

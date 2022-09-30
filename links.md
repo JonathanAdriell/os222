@@ -39,7 +39,7 @@ easier and faster.
 
 6. [Logical vs Physical Adress](https://techdifferences.com/difference-between-logical-and-physical-address.html)<br>
 This website explains about the difference between logical and physical address in operating system. It provides a
-very understandable explanation using simple words, some key differences, and a comparison chart making it easier
+very understandable explanation using uncomplicated words, some key differences, and a comparison chart making it easier
 for readers to understand.
 
 7. [Dynamic vs Static Library Linking](https://cs-fundamentals.com/tech-interview/c/difference-between-static-and-dynamic-linking)<br>

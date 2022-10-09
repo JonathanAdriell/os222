@@ -46,6 +46,14 @@ for readers to understand.
 This website explains about the difference between dynamic and static library linking in a very understandable way. It also
 provides a table of comparison which makes it easier for readers to understand.
 
+8. [Big vs Little Endian](https://www.freecodecamp.org/news/what-is-endianness-big-endian-vs-little-endian/)
+This website explains about the difference between Big Endian and Little Endian in great detail. It also provides
+some examples which makes it easier for readers to understand.
+
+9. [Uniform Memory Access vs Non-uniform Memory Access](https://www.geeksforgeeks.org/difference-between-uniform-memory-access-uma-and-non-uniform-memory-access-numa/)
+This website explains about the difference between Uniform Memory Access (UMA) and Non-uniform Memory Access (NUMA).
+It was explained in a straight-forward way and simple while still providing useful informations
+
 <br>
 <hr>
 &copy; {{ site.copyright }} --- {{ site.author }} --- Version: {{ site.version }}.

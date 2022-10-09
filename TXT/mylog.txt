@@ -42,3 +42,12 @@ ZCZC W04 25 L64 Helping a friend (OS related problem)
 ZCZC W04 40 L21 Trying something
 ZCZC W04 135 L05 Quiz related including studying
 ZCZC W04 200 L02 OS Class
+ZCZC W05 20 L01 Checking SCELE
+ZCZC W05 125 L15 Assignment #05: Reading and Demos
+ZCZC W05 30 L15 Assignment #05: How Low (Memory) Can You Go?
+ZCZC W05 15 L15 Assignment #05: Script Downlaod 
+ZCZC W05 40 L15 Assignment #05: Memory
+ZCZC W05 75 L15 Assignment #05: Finishing
+ZCZC W05 20 L64 Helping a friend (OS related problem)
+ZCZC W05 120 L05 Quiz related including studying 
+ZCZC W05 200 L02 OS Class

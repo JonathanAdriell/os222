@@ -52,7 +52,7 @@ some examples which makes it easier for readers to understand.
 
 9. [Uniform Memory Access vs Non-uniform Memory Access](https://www.geeksforgeeks.org/difference-between-uniform-memory-access-uma-and-non-uniform-memory-access-numa/)
 This website explains about the difference between Uniform Memory Access (UMA) and Non-uniform Memory Access (NUMA).
-It was explained in a straight-forward way and simple while still providing useful informations
+It was explained in a straight-forward way and simple while still providing useful information.
 
 <br>
 <hr>

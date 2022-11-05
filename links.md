@@ -15,7 +15,7 @@ permalink: LINKS/
 # LINKS
 
 ## WEEK00
-1. [Operating System Home Page](https://os.vlsm.org/)
+1. [Operating System Home Page](https://os.vlsm.org/)<br>
 This is Fasilkom UI's Operating System course home page. It contains a lot of useful informations, such as
 links to materials, weekly assignments, schedule, and others.
 
@@ -56,20 +56,20 @@ This website explains about the difference between dynamic and static library li
 also provides a Table of Comparison which makes it easier for readers to understand.
 
 ## WEEK05
-8. [Big vs Little Endian](https://www.freecodecamp.org/news/what-is-endianness-big-endian-vs-little-endian/)
+8. [Big vs Little Endian](https://www.freecodecamp.org/news/what-is-endianness-big-endian-vs-little-endian/)<br>
 This website explains about the difference between Big Endian and Little Endian in great detail. It also provides
 some examples that are very helpful in understanding the differences between them.
 
-9. [Uniform Memory Access vs Non-uniform Memory Access](https://www.geeksforgeeks.org/difference-between-uniform-memory-access-uma-and-non-uniform-memory-access-numa/)
+9. [Uniform Memory Access vs Non-uniform Memory Access](https://www.geeksforgeeks.org/difference-between-uniform-memory-access-uma-and-non-uniform-memory-access-numa/)<br>
 This website explains about the difference between Uniform Memory Access (UMA) and Non-uniform Memory Access (NUMA).
 It explains it in a straightforward way and simple while still providing useful information.
 
 ## WEEK06
-10. [Process](https://www.studytonight.com/operating-system/operating-system-processes)
+10. [Process](https://www.studytonight.com/operating-system/operating-system-processes)<br>
 Process is a program in execution which then forms the basis of all computation. One thing that we must know is that
 process is not the same as program code. In this website, it explains more about process in operating system. 
 
-11. [Process Scheduling](https://www.tutorialspoint.com/operating_system/os_process_scheduling.htm)
+11. [Process Scheduling](https://www.tutorialspoint.com/operating_system/os_process_scheduling.htm)<br>
 This website explains about process scheduling in a very structured way and great detail. It also provides
 some examples that are very useful for readers to understand. 
 

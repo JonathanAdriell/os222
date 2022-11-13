@@ -60,3 +60,12 @@ ZCZC W06 15 L64 Helping a friend (OS related problem)
 ZCZC W06 40 L21 Trying something
 ZCZC W06 120 L05 Quiz related including studying
 ZCZC W06 200 L02 OS Class
+ZCZC W07 20 L01 Checking SCELE
+ZCZC W07 120 L17 Assignment #07: Reading and Demos
+ZCZC W07 15 L17 Assignment #07: Script Download
+ZCZC W07 50 L17 Assignment #07: Synchronization
+ZCZC W07 70 L17 Assignment #07: Finishing
+ZCZC W07 20 L64 Helping a friend (OS related problem)
+ZCZC W07 60 L21 Trying something
+ZCZC W07 100 L05 Quiz related including studying
+ZCZC W07 200 L02 OS Class

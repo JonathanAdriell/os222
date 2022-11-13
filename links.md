@@ -73,6 +73,15 @@ process is not the same as program code. In this website, it explains more about
 This website explains about process scheduling in a very structured way and great detail. It also provides
 some examples that are very useful for readers to understand. 
 
+## WEEK07
+12. [Introduction of Process Synchronization](https://www.geeksforgeeks.org/introduction-of-process-synchronization/)
+This website explains about process synchronization in a very comprehensive way. It can be a great option for
+readers who want to know more about it.
+
+13. [Deadlock in Operating System](https://www.scaler.com/topics/operating-system/deadlock-in-os/)<br>
+This website explains about deadlock in a very understandable way. It also provides several methods that are
+very useful for handling deadlocks in operating system.
+
 <br>
 <hr>
 &copy; {{ site.copyright }} --- {{ site.author }} --- Version: {{ site.version }}.

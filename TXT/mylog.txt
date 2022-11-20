@@ -69,3 +69,12 @@ ZCZC W07 20 L64 Helping a friend (OS related problem)
 ZCZC W07 60 L21 Trying something
 ZCZC W07 100 L05 Quiz related including studying
 ZCZC W07 200 L02 OS Class
+ZCZC W08 20 L01 Checking SCELE 
+ZCZC W08 90 L18 Assignment #08: Reading and Demos
+ZCZC W08 15 L18 Assignment #08: Script Download
+ZCZC W08 275 L18 Assignment #08: Linux From Scratch Ch. 1-5
+ZCZC W08 70 L18 Assignment #08: Finishing
+ZCZC W08 30 L64 Helping a friend (OS related problem)
+ZCZC W08 20 L21 Trying something
+ZCZC W08 110 L05 Quiz related including studying
+ZCZC W08 200 L02 OS Class

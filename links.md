@@ -74,13 +74,22 @@ This website explains about process scheduling in a very structured way and grea
 some examples that are very useful for readers to understand. 
 
 ## WEEK07
-12. [Introduction of Process Synchronization](https://www.geeksforgeeks.org/introduction-of-process-synchronization/)
+12. [Introduction of Process Synchronization](https://www.geeksforgeeks.org/introduction-of-process-synchronization/)<br>
 This website explains about process synchronization in a very comprehensive way. It can be a great option for
 readers who want to know more about it.
 
 13. [Deadlock in Operating System](https://www.scaler.com/topics/operating-system/deadlock-in-os/)<br>
 This website explains about deadlock in a very understandable way. It also provides several methods that are
 very useful for handling deadlocks in operating system.
+
+## WEEK08
+14. [Scheduling in Operating System](https://binaryterms.com/scheduling-in-operating-system.html)<br>
+The process of allotting a CPU to processes present in a ready queue is called scheduling.
+In this website, the author explains about it in great detail.
+
+15. [Linux From Scratch](https://www.linuxfromscratch.org/lfs/view/stable/)<br>
+This website contains a very complete guide for making Linux from scratch. It also explains every step in a very 
+understandable way making it very useful for readers who want to make Linux from scratch.
 
 <br>
 <hr>

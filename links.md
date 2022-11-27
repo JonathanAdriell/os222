@@ -91,6 +91,17 @@ In this website, the author explains about it in great detail.
 This website contains a very complete guide for making Linux from scratch. It also explains every step in a very 
 understandable way making it very useful for readers who want to make Linux from scratch.
 
+## WEEK09
+16. [Firmware](https://www.techtarget.com/whatis/definition/firmware)<br>
+This website explains about firmware in a very comprehensive way. Not only does the author explain about firmware's definition,
+but also explains about firmware's process, importance, the difference between firmware and software, and 
+firmware's applications.
+
+17. [Bootloader](https://www.ionos.com/digitalguide/server/configuration/what-is-a-bootloader/)<br>
+Data of an operating system must be loaded into a working memory during devide start-up. And this is made possible 
+by bootloader, also known as a boot program or bootstrap loader. In this website, the author explains more about it in 
+great detail.
+
 <br>
 <hr>
 &copy; {{ site.copyright }} --- {{ site.author }} --- Version: {{ site.version }}.
